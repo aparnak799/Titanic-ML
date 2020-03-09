@@ -1,3 +1,7 @@
+Before I even begin:
+Thanks a bunch to Alexis Cook from Kaggle for the meticulously detailed tutorial notebook, on which much of this repo is based!
+Go visit her! https://www.kaggle.com/alexisbcook
+
 # Titanic-ML
 This repository contains all files and instructions required by you to begin hacking away at a simple yet fun ML problem statement!
 
